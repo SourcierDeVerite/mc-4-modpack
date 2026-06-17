@@ -227,6 +227,11 @@ hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
 metafile = true
 
 [[files]]
+file = "mods/atlas-api.pw.toml"
+hash = "8c6d5170ca4f3e42a3ff45ec2891a24fef98ab136f3e427fc34af23564d9e7dc"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "3595ba816c9ef014350d0072b90715d99cda633c0b3c8aee7a64ce3402ade5de"
 metafile = true
@@ -309,6 +314,16 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+metafile = true
+
+[[files]]
+file = "mods/irons-jewelry.pw.toml"
+hash = "9f53043aa6e3791e9fc37be502aff8a51cd82f58a5ffbe2454caba4d7b705241"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "ec000d411bc7cb81fb2a9723e57e8568209e2a67eb7ce2fc7f0e35e4daf14043"
 metafile = true
 
 [[files]]
