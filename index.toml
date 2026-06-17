@@ -243,6 +243,11 @@ hash = "8e2b38b8c4788d37fd0b55192a3dca6e19174e314dcdb628578c633e5f527ff2"
 metafile = true
 
 [[files]]
+file = "mods/born-in-configuration.pw.toml"
+hash = "d0093499de4c680318d0dde5a49cd92f9c5f5dde2a10bd659bf8fb65fec69798"
+metafile = true
+
+[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "766794fd8abb18e15b0bcbd2de09557120702f8e015b56012632ad4e4cae7408"
 metafile = true
