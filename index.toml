@@ -301,6 +301,11 @@ hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
+file = "mods/create_collision_fix.pw.toml"
+hash = "153204aa3920c2a903d8b5f97d9b54e4e32d7be3a763b9048088daff3112c792"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
